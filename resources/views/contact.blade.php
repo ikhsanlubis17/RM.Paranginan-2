@@ -84,20 +84,25 @@
                 </div>
 
                 <!-- Google Maps -->
-                <div>
-                    <h2 class="text-3xl font-bold text-gray-900 mb-8">Lokasi Kami</h2>
-                    <div class="bg-gray-200 h-96 rounded-lg overflow-hidden">
-                        <iframe
-                            src="https://www.google.com/maps?q=RHXC%2BQ8G%2C%20Jl.%20Lintas%20Timur%2C%20Pidoli%20Dolok%2C%20Kec.%20Panyabungan%2C%20Kabupaten%20Mandailing%20Natal%2C%20Sumatera%20Utara%2022977&output=embed"
-                            width="100%"
-                            height="100%"
-                            style="border:0;"
-                            allowfullscreen=""
-                            loading="lazy"
-                            referrerpolicy="no-referrer-when-downgrade">
+                <div class="mt-10">
+                    <h2 class="text-2xl font-bold text-gray-800 mb-4">Lokasi Kami</h2>
+                    <div class="w-full h-[450px] rounded-lg overflow-hidden shadow-md">
+                        <iframe 
+                           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4217.938089887056!2d99.57082299999999!3d0.8494271000000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x302bbf0c67a2fb99%3A0x530fc4ca86fce31!2sRM.%20Pondok%20Paranginan%202!5e1!3m2!1sid!2sid!4v1752433705494!5m2!1sid!2sid" 
+                           width="100%" 
+                           height="100%" 
+                           style="border:0;" 
+                           allowfullscreen="" 
+                           loading="lazy" 
+                           referrerpolicy="no-referrer-when-downgrade">
                         </iframe>
                     </div>
-                    <p class="text-sm text-gray-600 mt-2">*Peta menunjukkan lokasi perkiraan. Silakan hubungi kami untuk petunjuk arah yang lebih detail.</p>
+                    <p class="text-sm text-gray-600 mt-2">
+                        📍 Lokasi akurat RM Pondok Paranginan 2 di Google Maps. Klik tombol di bawah untuk arah navigasi:
+                    </p>
+                    <a href="https://maps.app.goo.gl/uSvTqkPYtM5Zz5RXA" target="_blank" class="mt-3 inline-block text-orange-600 hover:underline text-sm">
+                        🧭 Lihat di Aplikasi Google Maps
+                    </a>
                 </div>
             </div>
         </div>
