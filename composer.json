@@ -60,6 +60,7 @@
             "@php artisan config:clear --ansi",
             "@php artisan test"
         ]
+        
     },
     "extra": {
         "laravel": {
@@ -77,4 +78,5 @@
     },
     "minimum-stability": "stable",
     "prefer-stable": true
+
 }
